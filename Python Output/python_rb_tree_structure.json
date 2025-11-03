@@ -1,0 +1,1976 @@
+{
+  "key": "GT3_16",
+  "color": "black",
+  "left": {
+    "key": "GT3_16",
+    "color": "black",
+    "left": {
+      "key": "GT3_15",
+      "color": "black",
+      "left": {
+        "key": "GT3_15",
+        "color": "black",
+        "left": {
+          "key": "GT3_15",
+          "color": "black",
+          "left": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_15",
+          "color": "black",
+          "left": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        }
+      },
+      "right": {
+        "key": "GT3_15",
+        "color": "black",
+        "left": {
+          "key": "GT3_15",
+          "color": "red",
+          "left": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_15",
+          "color": "red",
+          "left": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "black",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_15",
+            "color": "black",
+            "left": {
+              "key": "GT3_15",
+              "color": "red",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_15",
+              "color": "red",
+              "left": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_15",
+                "color": "black",
+                "left": {
+                  "key": "GT3_15",
+                  "color": "red",
+                  "left": {
+                    "key": "GT3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_15",
+                  "color": "red",
+                  "left": {
+                    "key": "GT3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_15",
+                    "color": "black",
+                    "left": {
+                      "key": "GT3_15",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_15",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "right": {
+      "key": "GT3_16",
+      "color": "black",
+      "left": {
+        "key": "GT3_16",
+        "color": "black",
+        "left": {
+          "key": "GT3_16",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_16",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        }
+      },
+      "right": {
+        "key": "GT3_16",
+        "color": "black",
+        "left": {
+          "key": "GT3_16",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_16",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          },
+          "right": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": null,
+              "right": null
+            }
+          }
+        }
+      }
+    }
+  },
+  "right": {
+    "key": "GT3_18",
+    "color": "black",
+    "left": {
+      "key": "GT3_17",
+      "color": "black",
+      "left": {
+        "key": "GT3_16",
+        "color": "red",
+        "left": {
+          "key": "GT3_16",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_16",
+            "color": "black",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_17",
+          "color": "black",
+          "left": {
+            "key": "GT3_16",
+            "color": "red",
+            "left": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "black",
+                "left": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_16",
+              "color": "black",
+              "left": {
+                "key": "GT3_16",
+                "color": "red",
+                "left": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                }
+              },
+              "right": {
+                "key": "GT3_16",
+                "color": "red",
+                "left": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_16",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_16",
+                    "color": "red",
+                    "left": {
+                      "key": "GT3_16",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_16",
+                      "color": "black",
+                      "left": {
+                        "key": "GT3_16",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "GT3_16",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_17",
+            "color": "black",
+            "left": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "key": "GT3_17",
+        "color": "red",
+        "left": {
+          "key": "GT3_17",
+          "color": "black",
+          "left": {
+            "key": "GT3_17",
+            "color": "black",
+            "left": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_17",
+            "color": "black",
+            "left": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          }
+        },
+        "right": {
+          "key": "GT3_17",
+          "color": "black",
+          "left": {
+            "key": "GT3_17",
+            "color": "red",
+            "left": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_17",
+            "color": "red",
+            "left": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "black",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_17",
+              "color": "black",
+              "left": {
+                "key": "GT3_17",
+                "color": "red",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                }
+              },
+              "right": {
+                "key": "GT3_17",
+                "color": "red",
+                "left": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_17",
+                    "color": "red",
+                    "left": {
+                      "key": "GT3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    }
+                  },
+                  "right": {
+                    "key": "GT3_17",
+                    "color": "red",
+                    "left": {
+                      "key": "GT3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": {
+                        "key": "GT3_17",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "right": {
+      "key": "LE3_16",
+      "color": "red",
+      "left": {
+        "key": "GT3_19",
+        "color": "black",
+        "left": {
+          "key": "GT3_18",
+          "color": "red",
+          "left": {
+            "key": "GT3_18",
+            "color": "black",
+            "left": {
+              "key": "GT3_18",
+              "color": "black",
+              "left": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_18",
+              "color": "black",
+              "left": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            }
+          },
+          "right": {
+            "key": "GT3_18",
+            "color": "black",
+            "left": {
+              "key": "GT3_18",
+              "color": "black",
+              "left": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "GT3_18",
+              "color": "red",
+              "left": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                }
+              },
+              "right": {
+                "key": "GT3_18",
+                "color": "black",
+                "left": {
+                  "key": "GT3_18",
+                  "color": "red",
+                  "left": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    }
+                  },
+                  "right": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    }
+                  }
+                },
+                "right": {
+                  "key": "GT3_18",
+                  "color": "red",
+                  "left": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "GT3_18",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    }
+                  },
+                  "right": {
+                    "key": "GT3_18",
+                    "color": "black",
+                    "left": {
+                      "key": "GT3_18",
+                      "color": "red",
+                      "left": {
+                        "key": "GT3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "GT3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      }
+                    },
+                    "right": {
+                      "key": "GT3_18",
+                      "color": "red",
+                      "left": {
+                        "key": "GT3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "GT3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": {
+                          "key": "GT3_18",
+                          "color": "red",
+                          "left": null,
+                          "right": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "key": "LE3_15",
+          "color": "red",
+          "left": {
+            "key": "GT3_22",
+            "color": "black",
+            "left": {
+              "key": "GT3_19",
+              "color": "black",
+              "left": {
+                "key": "GT3_19",
+                "color": "red",
+                "left": {
+                  "key": "GT3_19",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_19",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                }
+              },
+              "right": {
+                "key": "GT3_19",
+                "color": "red",
+                "left": {
+                  "key": "GT3_19",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "GT3_19",
+                  "color": "black",
+                  "left": {
+                    "key": "GT3_19",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "GT3_20",
+                    "color": "red",
+                    "left": {
+                      "key": "GT3_19",
+                      "color": "black",
+                      "left": {
+                        "key": "GT3_19",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "GT3_19",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      }
+                    },
+                    "right": {
+                      "key": "GT3_20",
+                      "color": "black",
+                      "left": null,
+                      "right": {
+                        "key": "GT3_21",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "key": "LE3_15",
+              "color": "black",
+              "left": {
+                "key": "LE3_15",
+                "color": "black",
+                "left": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_15",
+                "color": "black",
+                "left": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            }
+          },
+          "right": {
+            "key": "LE3_16",
+            "color": "black",
+            "left": {
+              "key": "LE3_15",
+              "color": "black",
+              "left": {
+                "key": "LE3_15",
+                "color": "black",
+                "left": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_15",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_15",
+                "color": "black",
+                "left": {
+                  "key": "LE3_15",
+                  "color": "red",
+                  "left": {
+                    "key": "LE3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "LE3_15",
+                  "color": "red",
+                  "left": {
+                    "key": "LE3_15",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_15",
+                    "color": "black",
+                    "left": {
+                      "key": "LE3_15",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "LE3_15",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "key": "LE3_16",
+              "color": "black",
+              "left": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "key": "LE3_17",
+        "color": "black",
+        "left": {
+          "key": "LE3_16",
+          "color": "black",
+          "left": {
+            "key": "LE3_16",
+            "color": "black",
+            "left": {
+              "key": "LE3_16",
+              "color": "black",
+              "left": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            },
+            "right": {
+              "key": "LE3_16",
+              "color": "black",
+              "left": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          },
+          "right": {
+            "key": "LE3_17",
+            "color": "black",
+            "left": {
+              "key": "LE3_16",
+              "color": "red",
+              "left": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_16",
+                "color": "black",
+                "left": {
+                  "key": "LE3_16",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_16",
+                  "color": "red",
+                  "left": {
+                    "key": "LE3_16",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_16",
+                    "color": "black",
+                    "left": {
+                      "key": "LE3_16",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "LE3_16",
+                      "color": "red",
+                      "left": null,
+                      "right": null
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "key": "LE3_17",
+              "color": "black",
+              "left": {
+                "key": "LE3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "key": "LE3_17",
+                "color": "black",
+                "left": null,
+                "right": null
+              }
+            }
+          }
+        },
+        "right": {
+          "key": "LE3_18",
+          "color": "red",
+          "left": {
+            "key": "LE3_17",
+            "color": "black",
+            "left": {
+              "key": "LE3_17",
+              "color": "black",
+              "left": {
+                "key": "LE3_17",
+                "color": "black",
+                "left": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_17",
+                "color": "black",
+                "left": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "LE3_17",
+              "color": "black",
+              "left": {
+                "key": "LE3_17",
+                "color": "black",
+                "left": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_17",
+                "color": "red",
+                "left": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "LE3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_17",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "LE3_17",
+                  "color": "black",
+                  "left": {
+                    "key": "LE3_17",
+                    "color": "red",
+                    "left": {
+                      "key": "LE3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "LE3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    }
+                  },
+                  "right": {
+                    "key": "LE3_17",
+                    "color": "red",
+                    "left": {
+                      "key": "LE3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "LE3_17",
+                      "color": "black",
+                      "left": null,
+                      "right": {
+                        "key": "LE3_17",
+                        "color": "red",
+                        "left": null,
+                        "right": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "key": "LE3_18",
+            "color": "black",
+            "left": {
+              "key": "LE3_18",
+              "color": "black",
+              "left": {
+                "key": "LE3_18",
+                "color": "black",
+                "left": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              },
+              "right": {
+                "key": "LE3_18",
+                "color": "black",
+                "left": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": null,
+                  "right": null
+                }
+              }
+            },
+            "right": {
+              "key": "LE3_18",
+              "color": "red",
+              "left": {
+                "key": "LE3_18",
+                "color": "black",
+                "left": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                }
+              },
+              "right": {
+                "key": "LE3_18",
+                "color": "black",
+                "left": {
+                  "key": "LE3_18",
+                  "color": "black",
+                  "left": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  },
+                  "right": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": null,
+                    "right": null
+                  }
+                },
+                "right": {
+                  "key": "LE3_19",
+                  "color": "red",
+                  "left": {
+                    "key": "LE3_18",
+                    "color": "black",
+                    "left": {
+                      "key": "LE3_18",
+                      "color": "red",
+                      "left": {
+                        "key": "LE3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "LE3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      }
+                    },
+                    "right": {
+                      "key": "LE3_18",
+                      "color": "red",
+                      "left": {
+                        "key": "LE3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "LE3_18",
+                        "color": "black",
+                        "left": null,
+                        "right": {
+                          "key": "LE3_18",
+                          "color": "red",
+                          "left": null,
+                          "right": null
+                        }
+                      }
+                    }
+                  },
+                  "right": {
+                    "key": "LE3_19",
+                    "color": "black",
+                    "left": {
+                      "key": "LE3_19",
+                      "color": "black",
+                      "left": null,
+                      "right": null
+                    },
+                    "right": {
+                      "key": "LE3_19",
+                      "color": "red",
+                      "left": {
+                        "key": "LE3_19",
+                        "color": "black",
+                        "left": null,
+                        "right": null
+                      },
+                      "right": {
+                        "key": "LE3_20",
+                        "color": "black",
+                        "left": {
+                          "key": "LE3_19",
+                          "color": "red",
+                          "left": null,
+                          "right": null
+                        },
+                        "right": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
